@@ -1,4 +1,8 @@
-openai
-langchain
-streamlit
-langchain_community
+streamlit>=1.28.0
+langchain>=0.1.13
+langchain-community>=0.0.35
+langchain-ollama>=0.1.1
+chromadb>=0.4.24
+ollama>=0.1.0
+python-dotenv>=1.0.1
+requests>=2.31.0
