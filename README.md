@@ -54,6 +54,13 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### 4. Environment Variables
+
+Create a `.env` file in the root directory and add your Youtube API key, Google API key and GitHub token for issue search:
+
+```bash
+touch .env
+
 ### 4. Download and Run Ollama Llama3
 
 Make sure you have Ollama installed: https://ollama.com
