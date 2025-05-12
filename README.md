@@ -60,8 +60,8 @@ Create a `.env` file in the root directory and add your Youtube API key, Google 
 
 ```bash
 touch .env
-
-### 4. Download and Run Ollama Llama3
+```
+### 5. Download and Run Ollama Llama3
 
 Make sure you have Ollama installed: https://ollama.com
 ```bash
@@ -69,7 +69,7 @@ ollama serve
 ollama pull llama3
 ollama run mxbai-embed-large
 ```
-### 5. Run the streamlit app
+### 6. Run the streamlit app
 ```bash
 streamlit run ui.py
 ```
