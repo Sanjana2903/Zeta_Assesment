@@ -1,5 +1,3 @@
-# Zeta_Assesment
-
 # Agentic Chat Assistant with Digital Twin (Satya Nadella)
 
 A multi-agent conversational assistant built with LangChain and Streamlit, featuring a **Generic AI agent** and a **Digital Twin of Satya Nadella** that responds using Satya’s real public content with paraphrased answers and contextual reasoning.
